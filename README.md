@@ -1,4 +1,4 @@
-# 💫 Paing Thet Kyaw:
+# 💫 Paing Thet Kyaw
 I'm a second-year **Computer Science** student at Royal Holloway, University of London, passionate about software development and AI. I'm always looking to deepen my knowledge and apply my skills to real-world problems. I love building projects to challenge myself and push the boundaries of what I know.<br><br>
 
 
